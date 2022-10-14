@@ -19,7 +19,7 @@ Here is the example outlook of the dataset:
 
 The `VGG16` weights can be downloaded from [VGG16_weight](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
-Here is the result after fitting the model with 170 epochs with 0.85 accuracy(IOU were calculated to indicate the performance):
+Here is the result after fitting the model with 170 epochs with 0.85 accuracy(IOU and Dice were calculated to indicate the performance):
 <p float="left">
   <img src='result.jpg' width="800" height="400"/>
 </p>
