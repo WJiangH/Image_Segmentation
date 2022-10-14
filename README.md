@@ -1,8 +1,9 @@
 # Image_Segmentation
 
 This work uses `VGG16` from scratch as a `encoder` and `FCN8` as `decoder` to build a image segmentation model. The diagram of the network shown as,
-
-<img src='https://drive.google.com/uc?export=view&id=1lrqB4YegV8jXWNfyYAaeuFlwXIc54aRP' alt='fcn-8' width="1200" height="400">
+<p float="left">
+  <img src='https://drive.google.com/uc?export=view&id=1lrqB4YegV8jXWNfyYAaeuFlwXIc54aRP' alt='fcn-8' width="1200" height="400">
+</p>
 
 The dataset uses [dataset1](https://drive.google.com/file/d/0B0d9ZiqAgFkiOHR1NTJhWVJMNEU/view?usp=sharing) prepared by [divamgupta](https://github.com/divamgupta/image-segmentation-keras).<br>
 Here is the example outlook of the dataset:
