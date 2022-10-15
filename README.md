@@ -25,4 +25,6 @@ Here is the result after fitting the model with 170 epochs with 0.85 accuracy(IO
 </p>
 
 2. **UNet**
+<img src='https://drive.google.com/uc?export=view&id=1BeQSKL2Eq6Fw9iRXsN1hgunY-CS2nH7V' alt='unet' width="600" height="600">
+
 3. **MaskNet**
