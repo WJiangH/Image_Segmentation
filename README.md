@@ -26,10 +26,8 @@ Here is the result after fitting the model with 170 epochs with 0.85 accuracy(IO
 
 2. **UNet** in the folder `UNet`.
 The model will use the dataset [Oxford Pets - IIT dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), which is included in `TensorFlow Datasets` already. The UNet diagram is shown as, 
-
 <img src='https://drive.google.com/uc?export=view&id=1BeQSKL2Eq6Fw9iRXsN1hgunY-CS2nH7V' alt='unet' width="1200" height="500">
-The validation accuracy after 20 epochs reaching 0.89 and the result:
-
+The validation accuracy after 20 epochs reaching 0.89, and one of the resulting example is shown as,<br>
 <p float="left">
   <img src='./UNet/result.jpg' width="800" height="400"/>
 </p>
